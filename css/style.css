@@ -74,3 +74,7 @@ color: #bbb;
 section#contact .text-danger {
 color: #e74c3c;
 }
+
+.jumbotron {
+    background: url("../images/home.jpg") #bbb;
+}
