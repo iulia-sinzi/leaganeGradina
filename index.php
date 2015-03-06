@@ -35,15 +35,118 @@
 
         <hr>
 
-        <!-- Title -->
+        <!-- Produse -->
         <div class="row">
             <div class="col-lg-12">
-                <h3>Produse</h3>
+                <h2 class="page-header">Produse </h2>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="images/balansoar-din-lemn-dublu.jpg" alt="">
+                    <div class="caption">
+                        <h3>Balansoar dublu din lemn 050<br>
+                        </h3>
+                        <p>Balansoar din lemn format dintr-o banca si unu leaganen pentru copii mici...</p>
+                       
+                        <p>
+                            <a href="#" class="btn btn-primary">Solicita oferta</a> <a href="#" class="btn btn-default">Detalii</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="images/leagan-de-lemn.jpg" alt="">
+                    <div class="caption">
+                        <h3>Leagan din lemn 051<br>
+                        </h3>
+                        <p>Leagan acoperit cu scandura tratata cu grund si lacuit pentru a rezista la la exterior...</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="images/leagan-din-lemn.jpg" alt="">
+                    <div class="caption">
+                        <h3>Leagan din lemn 055<br>
+                        </h3>
+                        <p>Leagan rustic din lemn rotund, acoperit cu tegola cu diverse modele si culori...</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                  <img class="img-responsive" src="images/leagan-acoperis-ondulat.jpg" alt="">
+                    <div class="caption">
+                        <h3>Balansoar din lemn 056<br>
+                        </h3>
+                        <p>Balansoar rustic pentru terasa, banca poate fi sustinuta de o funie sau in lanturi...</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+				    <img class="img-responsive" src="images/leagan-balansoar.jpg" alt="">
+                    <div class="caption">
+                        <h3>Leagan acoperis ondulat 061<br>
+                        </h3>
+                        <p>Balansoar rustic pentru terasa, banca poate fi sustinuta de o funie sau in lanturi...</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="images/leagan-de-lemn-dublu.jpg" alt="">
+                    <div class="caption">
+                        <h3>Balansoar cu 2 leagane 065<br>
+                        </h3>
+                        <p>Balansoar pentru terasa format din doua leagane pentru copii si o banca mare... </p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
-        <!-- /.row -->
-
-        <!-- Page Features -->
+        
+<!--         Page Features 
         <div class="row text-center">
 
             <div class="col-md-3 col-sm-6 hero-feature">
@@ -99,7 +202,7 @@
             </div>
 
         </div>
-        <!-- /.row -->
+         /.row -->
 
         <hr>
 
